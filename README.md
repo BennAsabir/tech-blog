@@ -26,7 +26,7 @@ Project is created with
 * [Dotenv](https://www.npmjs.com/package/dotenv)
 * [connect-session-sequelize](https://www.npmjs.com/package/connect-session-sequelize)
 * [Express-Handlebars](https://www.npmjs.com/package/express-handlebars)
-* [bcrypt](https://www.npmjs.com/package/bcrypt
+* [bcrypt](https://www.npmjs.com/package/bcrypt)
 
 ## Installation
 To get started clone this repository using 
