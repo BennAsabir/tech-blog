@@ -12,6 +12,7 @@ A CMS-style blog site similar to a Wordpress site, where developers can publish 
 ## General Info
 The app follows the MVC paradigm in its architectural structure, using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication. [Link to deployed application](https://dry-ocean-09770.herokuapp.com/)
 <br>
+<br>
 Image showcasing the application 
 <img src=./public/images/firstscreenshot.png>
 
